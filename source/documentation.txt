@@ -1,0 +1,20 @@
+Fonts : http://ufonts.com/fonts/rockwell.html
+Image : unsplash
+
+Subscribe to get more Freebies!
+www.fikristudio.com
+
+menu: @gray #bcbcbc lighten(@gray-base, 74%)
+text: @gray-base  #8e8e8e
+post-header: @gray-light #c0c0c0 lighten(@gray-base 92%)
+form-bg - @gray-lighter #ebebeb lighten(@gray-base, 92%)
+
+@brand-primary #3eb3a5
+
+Form states and alerts!!! - not set
+Thumbnails - set if will appear on photos
+
+
+
+
+

@@ -149,7 +149,7 @@
     "@navbar-default-color": "#777",
     "@navbar-default-bg": "transparent",
     "@navbar-default-border": "darken(@navbar-default-bg, 6.5%)",
-    "@navbar-default-link-color": "@gray",
+    "@navbar-default-link-color": "@brand-primary",
     "@navbar-default-link-hover-color": "@brand-primary",
     "@navbar-default-link-hover-bg": "transparent",
     "@navbar-default-link-active-color": "@brand-primary",
@@ -404,7 +404,8 @@
     "dropdowns.less"
   ],
   "js": [
-    "dropdown.js"
+    "dropdown.js",
+    "collapse.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=610b27cf41bf96fa7798161d4a8a74f2"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=88969d175da99880645c76cefd900979"
 }
