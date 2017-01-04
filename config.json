@@ -405,7 +405,8 @@
   ],
   "js": [
     "dropdown.js",
-    "collapse.js"
+    "collapse.js",
+    "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=88969d175da99880645c76cefd900979"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=cebce4de58d718891ea6ef85eac14b12"
 }
